@@ -1,0 +1,15 @@
+h1 {
+  display: flex;
+  margin-top: 0px;
+  padding-left: 30px;
+  color: #444;
+  font-size: 3em;
+  font-family: tahoma;
+}
+p {
+  text-align: left;
+  font-size: 0.8em;
+  width: auto;
+  font-family: garamond;
+  text-indent: 50px;
+}
